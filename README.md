@@ -18,7 +18,7 @@
 
 ## BLE Advertising Packet
 
-<table border="1" style="text-align:center;">
+<table border="0" style="text-align:center;">
     <tr>
         <td rowspan="2">Preamble<br>1Byte</td>
         <td rowspan="2">Address<br>4Bytes</td>
@@ -33,7 +33,7 @@
 
 ## Payload
 
-<table border="1" style="text-align:center;">
+<table border="0" style="text-align:center;">
     <tr style="border-bottom:2px solid;"> <!-- background:#cccccc -->
         <th>Field</th>
         <th>Size</th>
@@ -54,7 +54,7 @@
 
 ## Example
 
-<table border="1" style="text-align:center;">
+<table border="0" style="text-align:center;">
     <tr style="border-bottom:2px solid;"> <!-- background:#cccccc -->
         <th colspan="2">Store Location</th>
         <th>San Francisco</th>
